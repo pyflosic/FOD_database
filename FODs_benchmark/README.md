@@ -1,3 +1,5 @@
+Date: 12.04.2019 
+
 All FODs within this reprosetory are related to the following article:   
 
 * Interpretation and automatic generation of Fermi-orbital descriptors
@@ -10,5 +12,5 @@ Str.6, D-09599 Freiberg
 
 All FODs were optimized using following set of numerical parameters: 
 
-* code: pyflosic 
+* code: pyflosic (inital commit version on github)
 * exc: "LDA,PW", "PBE,PBE" and "SCAN,SCAN"  
