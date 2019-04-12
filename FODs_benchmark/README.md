@@ -7,3 +7,8 @@ a TU Freiberg, Institute of Theoretical Physics, Leipziger Str. 23, D-09599 Frei
 b Central Michigan University, Department of Physics, Mount Pleasant , MI 48859 , USA
 c TU Freiberg, Institute of Theoretical Physics, Leipziger Str. 23, D-09599 Freiberg, and Freiberg Instruments GmbH, Delfter
 Str.6, D-09599 Freiberg
+
+All FODs were optimized using following set of numerical parameters: 
+
+* code: pyflosic 
+* exc: "LDA,PW", "PBE,PBE" and "SCAN,SCAN"  
