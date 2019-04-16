@@ -13,4 +13,7 @@ Str.6, D-09599 Freiberg
 All FODs were optimized using following set of numerical parameters: 
 
 * code: pyflosic (inital commit version on github)
-* exc: "LDA,PW", "PBE,PBE" and "SCAN,SCAN"  
+* exc: "LDA,PW", "PBE,PBE" and "SCAN,SCAN" 
+* basis set: density functional optimized (DFO)
+* SCF tolerance: 10^-6 Hartree
+* Maximum FOD force component: < 5.0* 10^-4 Ha/Bohr
