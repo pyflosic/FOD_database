@@ -1,6 +1,6 @@
 Date: 12.04.2019 
 
-All FODs within this reprosetory are related to the following article:   
+All FODs within this repository are related to the following article:   
 
 * Interpretation and automatic generation of Fermi-orbital descriptors
 S. Schwalbe a,∗ , K. Trepte b, L. Fiedler c , A. I. Johnson b , J. Kraus a , T. Hahn a , J. E. Peralta b , K. A.
