@@ -3,7 +3,7 @@ Date: 12.04.2019
 All FODs within this repository are related to the following article:   
 
 * Interpretation and automatic generation of Fermi-orbital descriptors
-S. Schwalbe a,∗ , K. Trepte b, L. Fiedler c , A. I. Johnson b , J. Kraus a , T. Hahn a , J. E. Peralta b , K. A.
+S. Schwalbe<sup> a,∗</sup> , K. Trepte b, L. Fiedler c , A. I. Johnson b , J. Kraus a , T. Hahn a , J. E. Peralta b , K. A.
 Jackson b , J. Kortus a  
 a TU Freiberg, Institute of Theoretical Physics, Leipziger Str. 23, D-09599 Freiberg
 b Central Michigan University, Department of Physics, Mount Pleasant , MI 48859 , USA
