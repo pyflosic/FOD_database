@@ -17,4 +17,4 @@ All FODs were optimized using following set of numerical parameters:
 * SCF tolerance: 10^-6 Hartree
 * Maximum FOD force component: < 5.0* 10^-4 Ha/Bohr
 * SIC Hamiltonian: unified Hamiltonian H_OOOV
-RandomDefaultUser
+
