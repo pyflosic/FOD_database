@@ -1,4 +1,4 @@
-Date: 12.04.2019 
+Date: 30.04.2019 
 
 All FODs within this repository are related to the following article:   
 
@@ -17,4 +17,6 @@ All FODs were optimized using following set of numerical parameters:
 * SCF tolerance: 10^-6 Hartree
 * Maximum FOD force component: < 5.0* 10^-4 Ha/Bohr
 * SIC Hamiltonian: unified Hamiltonian H_OOOV
+
+The optimized structures can be found in the folder FODs_HOOOV.
 
