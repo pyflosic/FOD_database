@@ -11,7 +11,7 @@ S. Schwalbe<sup> a,∗</sup> , K. Trepte <sup>b</sup>, L. Fiedler <sup>a,c</sup>
 
 All FODs were optimized using following set of numerical parameters: 
 
-* code: pyflosic (inital commit version on github)
+* code: PyFLOSIC (inital commit version on github)
 * exc: "LDA,PW", "PBE,PBE" and "SCAN,SCAN" 
 * basis set: density functional optimized (DFO)
 * SCF tolerance: 10^-6 Hartree
